@@ -84,6 +84,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"supportphone"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press Space to join the intercom"
                 }],
          "type":"tilelayer",
          "visible":true,

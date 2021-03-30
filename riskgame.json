@@ -240,7 +240,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jistiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"assemblyroom"
                 }, 
@@ -283,7 +283,7 @@
                  "value":"Press Space to join the intercom"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":60,
          "x":0,
          "y":0
@@ -295,7 +295,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":60,
          "x":0,
          "y":0
